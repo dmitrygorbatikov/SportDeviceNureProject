@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri":"mongodb+srv://Dimass:Z18SPXQtELHh@cluster0.jx0qc.mongodb.net/my-apzz?retryWrites=true&w=majority",
+  "jwtSecret": "Z18SPXQtELHh"
+}

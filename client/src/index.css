@@ -1,0 +1,154 @@
+.auth_form{
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: #2A6AA7;
+}
+#root{
+  background-color: #ededed;
+}
+.reg_password_label, .reg_email_label{
+  color: #fff;
+}
+.reg_email_input, .reg_password_input{
+  color: #fff;
+}
+.reg_button{
+  text-align: center;
+}
+#formBasicEmail{
+  color: #fff;
+}
+#formBasicEmail > .reg_email_input{
+  color: #fff;
+}
+
+input > ::placeholder{
+  color: #fff
+}
+.basic-navbar-nav{
+  float: right;
+}
+.mrere{
+  float: right;
+}
+#input_user_name{
+  width: 200px;
+  margin-right: 20px;
+  margin-left: 20px;
+  display: none;
+}
+#change_user_name{
+  display: none;
+}
+#save_user_name{
+  display: none;
+}
+#input_user_surname{
+  width: 200px;
+  margin-right: 20px;
+  margin-left: 20px;
+  display: none;
+}
+#change_user_surname{
+  display: none;
+}
+#save_user_surname{
+  display: none;
+}
+#toast{
+  color: #000
+}
+#create_team{
+  display: none;
+}
+#my-teams > a:hover{
+  color: #fff;
+  text-decoration: none;
+}
+#my-teams > a:hover{
+  color: #fff;
+  text-decoration: none;
+}
+
+.check_team > a{
+  color: #fff;
+  text-decoration: none;
+}
+.check_team > a:hover{
+  color: #fff;
+  text-decoration: none;
+}
+#cancel_edit_user_data{
+  display: none;
+}
+#delete_user_img{
+  display: none;
+}
+#exampleFormControlFile1{
+  display: none;
+}
+
+.search_team > a{
+  color: #fff;
+  text-decoration: none;
+}
+.search_team > a:hover{
+  color: #fff;
+  text-decoration: none;
+}
+.chat_btn{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
+.skipping_rope > img{
+  margin: 0 auto;
+}
+.skipping_rope{
+  text-align: center;
+}
+.footer__{
+  height: auto;
+  background: #343A40;
+}
+.footer_info{
+  color: #9B94AC;
+  display: flex;
+}
+.footer__icon{
+  color: #fff;
+}
+.subscribe{
+  color: #9B94AC;
+}
+.social_network:hover{
+  color: #DC3545;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.content{
+  min-height: calc(100vh - 321px);
+}
+
+@media (max-width: 1200px){
+  #deleteUserNote{
+    margin-top: 10px;
+  }
+  #successLeaderBtn{
+    margin-top: 10px;
+  }
+  #dangerLeaderBtn{
+
+  }
+}
+@media (min-width: 1200px) {
+  .productList_img{
+    height: 253px;
+  }
+  #create_team{
+    height: 38px;
+  }
+
+}
+
